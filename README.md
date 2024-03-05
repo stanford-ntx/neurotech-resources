@@ -10,7 +10,7 @@ This list of resources is non-exhaustive, and please feel free to add anything i
 2. [Non-Stanford Resources](#externalresources)
 3. [Stanford Projects & Labs](#labs)
 4. [Stanford Clubs](#clubs)
-5. [Fellowships and Research Grants]
+5. [Fellowships and Research Grants](#researchfunding)
 
 ## Courses 
 
