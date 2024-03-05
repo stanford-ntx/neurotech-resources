@@ -20,4 +20,4 @@ This list of resources is non-exhaustive, and please feel free to add anything i
 | Name | Principal Investigator |           Field            |                Notes                |
 | ---- | ---------------------- |--------------------------- | ----------------------------------- |
 | [Neural Prosthetics Translation Lab (NPTL)](https://nptl.stanford.edu/) | [Dr. Jaimie Henderson, MD](https://profiles.stanford.edu/jaimie-henderson) | BCI, Neural Prosthetics, Neuromodulation, Computational Neuroscience |  |
-| [NeuroAI Lab](https://neuroailab.stanford.edu/) | [Dan Yamins, PhD](https://stanford.edu/~yamins/) |	Computational Neuroscience, AI | |
+| [NeuroAI Lab](https://neuroailab.stanford.edu/) | [Dr. Dan Yamins, PhD](https://stanford.edu/~yamins/) |	Computational Neuroscience, AI | |
